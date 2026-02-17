@@ -1,4 +1,4 @@
-<h1 align="center">Itmodem Solutions Pvt. Ltd.</h1>
+<h1 align="center">Itmodem Solutions</h1>
 <h3 align="center">Web Development & Digital Solutions Partner</h3>
 
 <p align="center">
@@ -44,7 +44,7 @@ Our approach combines modern frontend engineering with robust backend developmen
 ### Portfolio & Case Studies
 
 Explore our completed and ongoing projects here:  
-👉 https://projects.itmodem.com/
+👉 https://itmodem.com/portfolio
 
 ---
 
@@ -54,7 +54,7 @@ Explore our completed and ongoing projects here:
 🌐 Website: https://itmodem.com  
 
 <p align="left">
-  <a href="https://linkedin.com/in/itmodem" target="_blank">
+  <a href="www.linkedin.com/in/mrrupeshkumar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://fb.com/itmodem" target="_blank">
