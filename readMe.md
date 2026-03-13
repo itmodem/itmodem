@@ -1,4 +1,4 @@
-<h1 align="center">Itmodem Solutions</h1>
+<h1 align="center">IT Modem Solutions</h1>
 <h3 align="center">Web Development & Digital Solutions Partner</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About the Company
 
-Itmodem Solutions Pvt. Ltd. is an India-based technology company delivering reliable, scalable, and business-focused web solutions. We help startups, entrepreneurs, and growing organizations build strong digital products with clean design, efficient architecture, and long-term maintainability.
+IT Modem Solutions is an India-based technology company delivering reliable, scalable, and business-focused web solutions. We help startups, entrepreneurs, and growing organizations build strong digital products with clean design, efficient architecture, and long-term maintainability.
 
 Our approach combines modern frontend engineering with robust backend development to ensure performance, security, and scalability.
 
